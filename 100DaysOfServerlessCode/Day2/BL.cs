@@ -14,15 +14,15 @@ namespace _100DaysOfServerlessCode.Day2
             }
             else if (operation.ToLower() == "substraction")
             {
-                return $"The sum of {num1} and {num2} is {num1 + num2}";
+                return $"The differnce between {num1} and {num2} is {num2 - num1}";
             }
             else if (operation.ToLower() == "multiplication")
             {
-                return $"The sum of {num1} and {num2} is {num1 + num2}";
+                return $"The product of {num1} and {num2} is {num1 * num2}";
             }
             else if (operation.ToLower() == "division")
             {
-                return $"The sum of {num1} and {num2} is {num1 + num2}";
+                return $"The division of {num1} and {num2} is {num1 / num2}";
             }
             else
             {
