@@ -23,7 +23,7 @@ namespace _100DaysOfServerlessCode
 
             string requestBody = await new StreamReader(req.Body).ReadToEndAsync();
             dynamic data = JsonConvert.DeserializeObject(requestBody);
-            name = name ?? data?.name ?;
+            name = name ?? data?.name;
 
             string responseMessage = string.IsNullOrEmpty(name)
                 ? "Please Enter a name."

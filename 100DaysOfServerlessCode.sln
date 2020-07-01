@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30204.135
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "100DaysOfServerlessCode", "100DaysOfServerlessCode\100DaysOfServerlessCode.csproj", "{C179CB95-34B6-47C3-B61C-A7A76BDA7C5D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "100DaysOfServerlessCode", "100DaysOfServerlessCode\100DaysOfServerlessCode.csproj", "{C179CB95-34B6-47C3-B61C-A7A76BDA7C5D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
