@@ -1,0 +1,1 @@
+﻿The HttpTriggerGreeting function is a simple Azure function which is triggered on a http request to respond a greeting as hello alongwith the name passed. Examle of response would be Hello Ashirwad where Ashirwad is the name passed to function app as parmater in request body. 

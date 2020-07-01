@@ -1,0 +1,1 @@
+﻿The HttpTriggerCalculation function is a simple Azure function which is triggered on a http request to perfrom basic calculation operations like addition,substraction,multiplication and division. 
