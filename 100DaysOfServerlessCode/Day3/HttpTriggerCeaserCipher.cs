@@ -56,7 +56,7 @@ namespace _100DaysOfServerlessCode.Day3
                         responseMessage = $"Encrypted message for {message} is {BL.Encryption(message, key)}";
                     }
                     else if(operation == "Decrypt"){
-                        responseMessage = $"Encrypted message for {message} is {BL.Decryption(message, key)}";
+                        responseMessage = $"Decrypted message for {message} is {BL.Decryption(message, key)}";
                     }
                     else
                     {
