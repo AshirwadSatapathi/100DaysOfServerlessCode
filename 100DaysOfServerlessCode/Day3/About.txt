@@ -1,0 +1,1 @@
+﻿The HttpTriggerCeaserCipher function is a simple Azure function which is triggered on a http request to perform the logic of ceaser cipher to encrypt or decrypt as per the operation requested. 
