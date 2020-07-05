@@ -1,0 +1,1 @@
+﻿HttpTriggerSentimentAnalyzer is triggered on a HttpRequest to perfrom sentiment analysis on the message passed the azure function. It returns the sentiment score of the message passed to the azure function. It uses Text Analytics API of the Azure Cognitive Services to perform sentiment analysis.
