@@ -18,4 +18,8 @@
       <CopyToPublishDirectory>Never</CopyToPublishDirectory>
     </None>
   </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Day9\" />
+    <Folder Include="Day10\" />
+  </ItemGroup>
 </Project>
