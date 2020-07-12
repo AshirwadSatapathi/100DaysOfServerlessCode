@@ -1,1 +1,1 @@
-﻿The GithubMonitor is a Http Triggered Azure function which sends a mail to the user on any changes happening in the congfigured github repository. 
+﻿The GithubMonitor is a Http Triggered Azure function which sends a mail to the user in case of any changes happening in the congfigured github repository. 
